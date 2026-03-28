@@ -101,7 +101,7 @@ What I work with
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/cgR9DTS7sECO6Fp00g/giphy.gif" alt="Halo - Master Chief" width="480" />
+<img src="https://i.giphy.com/cgR9DTS7sECO6Fp00g.gif" alt="Halo - Master Chief" width="480" />
 
 </div>
 
