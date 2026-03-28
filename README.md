@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./assets/Master Chief.gif" alt="Halo - Master Chief" width="480" />
+
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Josue+Perez+%F0%9F%91%8B;Fullstack+Developer+%E2%80%94+Backend-first;NestJS+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+React)](https://git.io/typing-svg)
 
 </div>
@@ -98,12 +104,6 @@ What I work with
 ```
 
 > This is a snapshot of what I've touched throughout my career — not an exhaustive list. There are tools, patterns, and contexts that are hard to fit in a tree but that show up naturally when you work across different teams, projects, and problem domains.
-
-<div align="center">
-
-<img src="./assets/Master Chief.gif" alt="Halo - Master Chief" width="480" />
-
-</div>
 
 ## Let's connect
 
