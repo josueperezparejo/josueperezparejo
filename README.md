@@ -1,65 +1,117 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Josue Perez
+<div align="center">
 
-## Backend Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Josue+Perez+%F0%9F%91%8B;Fullstack+Developer+%E2%80%94+Backend-first;NestJS+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+React)](https://git.io/typing-svg)
 
-As a developer, I specialize in web application development, from conception to implementation. I have taken on key roles as a Front-end Developer and Back-end Developer, providing a comprehensive vision to the team. I am passionate about creating solutions that align with innovation and quality, values I consider essential. My reputation is built on my commitment, responsibility, and ability to work efficiently under pressure. I am highly collaborative and always open to continuous learning. I am excited to join your team and contribute to your projects.
+</div>
 
-- 🌍  I'm based in Barranquilla, Colombia — where the Caribbean meets code 🌴💻
-- 🖥️  See my portfolio at [this link 🚀](http://portafolio-josue.netlify.app/)
-- ✉️  You can contact me at [josueperezparejo@gmail.com](mailto:josueperezparejo@gmail.com)
-- 🧠  I'm learning core concepts of backend architecture and data flow
-- 🤝  I'm open to collaborating on innovative projects involving TypeScript and NestJS
-- ⚡  I'm a flexible developer with a passion for learning and contributing to meaningful projects
+## Who am I?
 
-### Skills
+I'm **Josue**, a Fullstack Developer based in **Bogotá, Colombia** 🇨🇴.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+I build end-to-end web applications with a **backend-first mindset** — I care about how data flows through a system, how it's structured, and how it behaves under real conditions. I write code that's readable and maintainable, not just code that works.
 
-### Socials
+I'm currently going deeper into **cloud infrastructure on AWS** — not just deploying containers, but understanding the architecture behind scalable, observable systems.
 
-<p align="left"> 
-<a href="https://discord.com/users/josueperezparejo" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.github.com/josueperezparejo" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.linkedin.com/in/josueperezparejo" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-</picture> 
-</a>
-</p>
+## A bit more about me
 
-### Badges
+- 🔭 &nbsp; Currently working on backend systems with **NestJS + TypeScript + PostgreSQL**
+- ☁️ &nbsp; Actively learning **AWS** — EC2, Lambda, S3, RDS, IAM, API Gateway
+- 🧠 &nbsp; Interested in **system design**, clean architecture, and domain-driven patterns
+- 🤝 &nbsp; Always open to collaborate on interesting backend or fullstack projects
+- 🎯 &nbsp; 2026 goal: get AWS certified and contribute to open source
+- ⚡ &nbsp; Fun fact: I think the best code is the one you don't have to explain
 
-<b>My GitHub Stats</b>
+> I pay attention to the small details — the ones most people skip over. I believe that's where the real quality lives, whether it's in code, communication, or how you treat the people you work with.
 
-<a href="http://www.github.com/josueperezparejo"><img src="https://github-readme-stats.vercel.app/api?username=josueperezparejo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="josueperezparejo's GitHub stats" /></a>
+## What I work with
+
+```
+What I work with
+│
+├── Language
+│   ├── TypeScript          (primary — strict mode, decorators, generics)
+│   ├── JavaScript (ES2022+)
+│   ├── Python              (scripting, AWS Lambda functions, automation tasks)
+│   └── C# / .NET           (general-purpose backend, APIs with ASP.NET Core)
+│
+├── Backend
+│   ├── NestJS              (modules, guards, pipes, interceptors, DI)
+│   ├── Node.js / Express   (middleware, streaming)
+│   ├── Bun                 (fast JS runtime, drop-in Node alternative)
+│   ├── Deno                (secure runtime, built-in TypeScript support)
+│   ├── REST API            (resource design, versioning, HTTP best practices)
+│   ├── GraphQL             (Apollo Server, resolvers, subscriptions)
+│   ├── WebSockets          (real-time features via Socket.io)
+│   └── Microservices       (event-driven, message queues, service decomposition)
+│
+├── Frontend
+│   ├── React               (hooks, context, custom hooks)
+│   ├── Next.js             (SSR, SSG, App Router, API routes)
+│   ├── Vite.js             (fast dev server, optimized builds)
+│   └── HTML / CSS / Tailwind CSS
+│
+├── Mobile
+│   ├── React Native        (cross-platform iOS & Android)
+│   └── Expo                (managed workflow, OTA updates, native APIs)
+│
+├── Databases & Storage
+│   ├── PostgreSQL          (relations, indexes, transactions, views)
+│   ├── MySQL               (relational, stored procedures, replication)
+│   ├── MongoDB             (aggregation pipelines, Mongoose)
+│   ├── Redis               (caching, pub/sub, sessions)
+│   ├── DynamoDB            (AWS NoSQL, single-table design, on-demand scaling)
+│   ├── S3                  (AWS object storage, static assets, file uploads)
+│   ├── Supabase            (auth, storage, realtime)
+│   └── Firebase            (Firestore, Auth, Cloud Functions)
+│
+├── ORM / Query Builders
+│   ├── TypeORM             (entities, migrations, relations)
+│   └── Prisma              (schema-first, type-safe queries)
+│
+├── Cloud — AWS             (actively learning)
+│   ├── Compute             EC2 · Lambda · ECS · Fargate · Elastic Beanstalk
+│   ├── Storage             S3 · RDS · EBS · EFS · Glacier
+│   ├── Database            DynamoDB · Aurora · ElastiCache · Redshift
+│   ├── Networking          VPC · Subnets · Route 53 · CloudFront · ELB
+│   ├── Auth & Security     IAM · Cognito · KMS · Secrets Manager · WAF
+│   ├── Messaging           SQS · SNS · EventBridge
+│   ├── Orchestration       Step Functions · ECS Task Definitions
+│   ├── Data & ETL          Glue Jobs · Athena · Kinesis
+│   ├── API & Integration   API Gateway · AppSync
+│   ├── Monitoring          CloudWatch · X-Ray · CloudTrail
+│   └── IaC & DevOps        CloudFormation · CDK · CodePipeline · CodeDeploy
+│
+├── DevOps & CI/CD
+│   ├── Docker              (multi-stage builds, Compose)
+│   ├── GitHub Actions      (pipelines, automated testing, deployments)
+│   └── CI/CD              (lint → test → build → deploy workflows)
+│
+└── Tools & Practices
+    ├── Git                 (branching strategies, conventional commits)
+    ├── Postman / Insomnia  (API design & testing)
+    ├── Figma               (design handoff, prototyping)
+    ├── ESLint / Prettier   (code quality enforcement)
+    ├── Clean Architecture  (SOLID, DDD patterns, layered structure)
+    ├── Agile / Scrum       (sprints, ceremonies, backlog grooming, retrospectives)
+    ├── Jira                (sprint planning, issue tracking, roadmaps)
+    └── Notion              (documentation, wikis, team knowledge base)
+```
+
+> This is a snapshot of what I've touched throughout my career — not an exhaustive list. There are tools, patterns, and contexts that are hard to fit in a tree but that show up naturally when you work across different teams, projects, and problem domains.
+
+<div align="center">
+
+<!-- OPCIÓN 1: Master Chief armor render — oficial, muy cinematográfico -->
+<img src="https://media2.giphy.com/media/cgR9DTS7sECO6Fp00g/giphy.gif" alt="Halo - Master Chief" width="480" />
+</div>
+
+## Let's connect
+
+- 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/josueperezparejo)
+- 🌐 &nbsp; [Portfolio](http://portafolio-josue.netlify.app/)
+- 📬 &nbsp; [josueperezparejo@gmail.com](mailto:josueperezparejo@gmail.com)
+- 🐙 &nbsp; [GitHub](https://www.github.com/josueperezparejo)
+
+<br />
+
+<sub>📍 Bogotá, Colombia 🇨🇴</sub>
