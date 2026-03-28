@@ -101,8 +101,8 @@ What I work with
 
 <div align="center">
 
-<!-- OPCIÓN 1: Master Chief armor render — oficial, muy cinematográfico -->
 <img src="https://media2.giphy.com/media/cgR9DTS7sECO6Fp00g/giphy.gif" alt="Halo - Master Chief" width="480" />
+
 </div>
 
 ## Let's connect
